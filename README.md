@@ -18,7 +18,8 @@ I started my journey in layout and front-end quite recently, but this area is in
 <p>
 <a href="https://www.instagram.com/martins_arsenal/"><img src="https://github.com/Ser-Martin/Ser-Martin/blob/main/images/GH-arsenal-logo.png" alt="GH-arsenal-logo" width="160px" align="left"></img></a>
 </p>
-<h3 align="right"><<< ARSENAL</h3>
+<a href="https://www.instagram.com/martins_arsenal/"><h3 align="right"><<< ARSENAL</h3></a>
+
 
 My second passion is scale modeling, which in my opinion has a lot in common with coding, because every detail, every brush stroke or layer of airbrush paint, as well as the correct, beautiful code, create a unique and amazing look in the end. If you're interested in getting acquainted with my works in this area, don't hesitate and follow the links.
 
